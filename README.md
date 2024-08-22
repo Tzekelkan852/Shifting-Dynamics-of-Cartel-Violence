@@ -16,3 +16,4 @@ The respective codes associated to the article
 
 6.- "Correlaciones_Artículo_ING.ipynb" This file focuses on calculating cartel correlations and graphing the main results.
 
+7.- The "Artículo4.R" code creates maps of Mexico of the events for each six-year term using pairs of cartels, the spatial location of the event and a disk to illustrate the number of events in the same place.
