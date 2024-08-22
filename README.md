@@ -1,5 +1,5 @@
 # Shifting-Dynamics-of-Cartel-Violence
-The respective codes associated to the article
+The respective codes associated to the article.
 
 1.- The "Limpieza de datos.ipynb" file is focused on data cleaning and applying corresponding filters to the database.
 
@@ -8,7 +8,7 @@ The respective codes associated to the article
 3.- "Artículo_Inglés.ipynb" file is focused on generating all kinds of non-geographic graphics. It contains scatter plots, bar charts, histograms, tables and heatmaps. The important outputs are those corresponding to the numbers: 
   *Numbers 2, 4, 6, 7, 15, 17, 19, 20 and 24 offer a general overview of the results of the situation.
   *Numbers 27 and 28 show the activity and intensity of the cartels.
-  *Numbers 36, 37, 38, 39, 40, 41, 42 and 43 show comparisons between six-year periods, using totals and two specific cartels, considering      deaths and events.
+  *Numbers 36, 37, 38, 39, 40, 41, 42 and 43 show comparisons between six-year periods, using totals and two specific cartels, considering deaths and events.
 The following figures correspond to this code: Fig. 1 A) and 1 B), Fig. 2 B) and 2 C), Fig. 3 B) and Fig. 4 B).
 
 4.- "Artículo.R" is a file that focuses on making a geographical map of Mexico, politically separated by states, showing deaths based on color intensity. Figure 1 C) correspond to this code.
@@ -17,4 +17,4 @@ The following figures correspond to this code: Fig. 1 A) and 1 B), Fig. 2 B) and
 
 6.- "Correlaciones_Artículo_ING.ipynb" This file focuses on calculating cartel correlations and graphing the main results.
 
-7.- The "Artículo4.R" code creates maps of Mexico of the events for each six-year term using pairs of cartels, the spatial location of the event and a disk to illustrate the number of events in the same place. The following figures correspond to this code: Fig. 2 A), Fig. 3 A) and Fig. 4 A)
+7.- The "Artículo4.R" code creates maps of Mexico of the events for each six-year term using pairs of cartels, the spatial location of the event and a disk to illustrate the number of events in the same place. The following figures correspond to this code: Fig. 2 A), Fig. 3 A) and Fig. 4 A).
