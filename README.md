@@ -10,4 +10,4 @@ The respective codes associated to the article
   *Numbers 27 and 28 show the activity and intensity of the cartels.
   *Numbers 36, 37, 38, 39, 40, 41, 42 and 43 show comparisons between six-year periods, using totals and two specific cartels, considering      deaths and events.
 
-4.-
+4.- "Artículo.R" is a file that focuses on making a geographical map of Mexico, politically separated by states, showing deaths based on color intensity.
