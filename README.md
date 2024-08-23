@@ -21,7 +21,7 @@ The following figures in the article correspond to this code: Fig. 1 A) and 1 B)
 
 Important links related to databases:
 
-The source of the database we used for the article:
+The source of the database we used for the article:\\
    UCPD. (2022). Department of Peace and Conflict Research (México). Link: https://ucdp.uu.se/encyclopedia
 
 The data of the base Mexico map divided by state extracted from the INEGI through the CONABIO portal:
