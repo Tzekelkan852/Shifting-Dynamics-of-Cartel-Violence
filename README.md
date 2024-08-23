@@ -18,3 +18,15 @@ The following figures in the article correspond to this code: Fig. 1 A) and 1 B)
 6.- "Correlaciones_Artículo_ING.ipynb" This file focuses on calculating cartel correlations and graphing the main results.
 
 7.- The "Artículo4.R" code creates maps of Mexico of the events for each six-year term using pairs of cartels, the spatial location of the event and a disk to illustrate the number of events in the same place. The following figures in the article correspond to this code: Fig. 2 A), Fig. 3 A) and Fig. 4 A).
+
+Important links related to databases:
+
+The source of the database we used for the article:
+   UCPD. (2022). Department of Peace and Conflict Research (México). Link: https://ucdp.uu.se/encyclopedia
+
+The data of the base Mexico map divided by state extracted from the INEGI through the CONABIO portal:
+   INEGI. (2018). Catálogo de metadatos geográficos. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad. Link:   
+   http://geoportal.conabio.gob.mx/metadatos/doc/html/muni_2018gw.html
+
+The data of the base Mexico map divided by minicipalities extracted from the UNAM IDEA portal:
+   INEGI. (2010). Censo 2010 (Estatal). Link: https://www.gits.igg.unam.mx/idea/descarga
